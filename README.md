@@ -10,4 +10,4 @@ Here are some of the things about me:
 - 🌱 Past digital projects I have created are the Tinkercad Pa site project and the game website I made last year.
 - 👯 Some of the digital languages I know and learnt are HTML and CSS.
 - 🤔 I want to study digital technology because I love solving problems using logic and whnever I have a bug, the pride and joy from solving that one bug just feels so satisfying.
-- ✨ In the future, I really want to create a proper game with proper game-like physics. I also want to learn how to do it.
+- ✨ In the future, I really want to create a short animation from rendering through blender. I also want to learn how to do it.
